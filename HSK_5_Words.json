@@ -897,6 +897,385 @@
     "hanzi": "创造",
     "pinyin": "chuàngzào",
     "translations": "Membuat"
+  },
+  {
+    "id": 151,
+    "hanzi": "吹",
+    "pinyin": "chuī",
+    "translations": "Meniup"
+  },
+  {
+    "id": 152,
+    "hanzi": "词汇",
+    "pinyin": "cíhuì",
+    "translations": "Kosa kata"
+  },
+  {
+    "id": 153,
+    "hanzi": "辞职",
+    "pinyin": "cízhí",
+    "translations": "Mengundurkan diri"
+  },
+  {
+    "id": 154,
+    "hanzi": "此外",
+    "pinyin": "cǐwài",
+    "translations": "Selain itu"
+  },
+  {
+    "id": 155,
+    "hanzi": "次要",
+    "pinyin": "cìyào",
+    "translations": "Sekunder/yang kedua"
+  },
+  {
+    "id": 156,
+    "hanzi": "刺激",
+    "pinyin": "cìjī",
+    "translations": "Stimulasi"
+  },
+  {
+    "id": 157,
+    "hanzi": "匆忙",
+    "pinyin": "cōngmáng",
+    "translations": "Tergesa-gesa"
+  },
+  {
+    "id": 158,
+    "hanzi": "从此",
+    "pinyin": "cóngcǐ",
+    "translations": "Mulai saat itu"
+  },
+  {
+    "id": 159,
+    "hanzi": "从而",
+    "pinyin": "cóngér",
+    "translations": "Dengan demikian"
+  },
+  {
+    "id": 160,
+    "hanzi": "从前",
+    "pinyin": "cóngqián",
+    "translations": "Dahulu kala"
+  },
+  {
+    "id": 161,
+    "hanzi": "从事",
+    "pinyin": "cóngshì",
+    "translations": "Terlibat"
+  },
+  {
+    "id": 162,
+    "hanzi": "粗糙",
+    "pinyin": "cūcāo",
+    "translations": "Kasar"
+  },
+  {
+    "id": 163,
+    "hanzi": "促进",
+    "pinyin": "cùjìn",
+    "translations": "Meningkatkan"
+  },
+  {
+    "id": 164,
+    "hanzi": "促使",
+    "pinyin": "cùshǐ",
+    "translations": "Menjadikan"
+  },
+  {
+    "id": 165,
+    "hanzi": "醋",
+    "pinyin": "cù",
+    "translations": "Cuka"
+  },
+  {
+    "id": 166,
+    "hanzi": "催",
+    "pinyin": "cuī",
+    "translations": "Mendesak"
+  },
+  {
+    "id": 167,
+    "hanzi": "存在",
+    "pinyin": "cúnzài",
+    "translations": "Keberadaan"
+  },
+  {
+    "id": 168,
+    "hanzi": "措施",
+    "pinyin": "cuòshī",
+    "translations": "Ukuran"
+  },
+  {
+    "id": 169,
+    "hanzi": "达到",
+    "pinyin": "dáodào",
+    "translations": "Mencapai"
+  },
+  {
+    "id": 170,
+    "hanzi": "答应",
+    "pinyin": "dāyìng",
+    "translations": "Berjanji/Menyetujui"
+  },
+  {
+    "id": 171,
+    "hanzi": "打工",
+    "pinyin": "dǎgōng",
+    "translations": "Kerja paruh waktu"
+  },
+  {
+    "id": 172,
+    "hanzi": "打交道",
+    "pinyin": "dǎjiǎodào",
+    "translations": "Berurusan dengan"
+  },
+  {
+    "id": 173,
+    "hanzi": "打喷嚏",
+    "pinyin": "dǎpēntì",
+    "translations": "Bensin"
+  },
+  {
+    "id": 174,
+    "hanzi": "打听",
+    "pinyin": "dǎtīng",
+    "translations": "Bertanya/mencari info"
+  },
+  {
+    "id": 175,
+    "hanzi": "大方",
+    "pinyin": "dàfāng",
+    "translations": "Dermawan/loyal"
+  },
+  {
+    "id": 176,
+    "hanzi": "大厦",
+    "pinyin": "dàshà",
+    "translations": "Gedung/bangunan"
+  },
+  {
+    "id": 177,
+    "hanzi": "大象",
+    "pinyin": "dàxiàng",
+    "translations": "Gajah"
+  },
+  {
+    "id": 178,
+    "hanzi": "大型",
+    "pinyin": "dáxíng",
+    "translations": "Ukuran besar"
+  },
+  {
+    "id": 179,
+    "hanzi": "呆",
+    "pinyin": "dāi",
+    "translations": "Bengong"
+  },
+  {
+    "id": 180,
+    "hanzi": "代表",
+    "pinyin": "dàibiǎo",
+    "translations": "Mewakili"
+  },
+  {
+    "id": 181,
+    "hanzi": "代替",
+    "pinyin": "dàitì",
+    "translations": "Menggantikan"
+  },
+  {
+    "id": 182,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 183,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 184,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 185,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 186,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 187,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 188,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 189,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 190,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 191,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 192,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 193,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 194,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 195,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 196,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 197,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 198,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 199,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 200,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 201,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 202,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 203,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 204,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 205,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 206,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 207,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 208,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 209,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 210,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 211,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 212,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 213,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
   }
+
 
 ]
