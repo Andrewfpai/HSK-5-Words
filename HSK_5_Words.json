@@ -1086,196 +1086,387 @@
   },
   {
     "id": 182,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "贷款",
+    "pinyin": "dàikuǎn",
+    "translations": "Pinjaman kredit"
   },
   {
     "id": 183,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "待遇",
+    "pinyin": "dàiyù",
+    "translations": "Gaji"
   },
   {
     "id": 184,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "担任",
+    "pinyin": "dānrèn",
+    "translations": "Menjabat"
   },
   {
     "id": 185,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "单纯",
+    "pinyin": "dānchún",
+    "translations": "Polos"
   },
   {
     "id": 186,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "单独",
+    "pinyin": "dāndú",
+    "translations": "Sendirian"
   },
   {
     "id": 187,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "单调",
+    "pinyin": "dāndiào",
+    "translations": "Monoton"
   },
   {
     "id": 188,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "单位",
+    "pinyin": "dānwèi",
+    "translations": "Unit"
   },
   {
     "id": 189,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "单元",
+    "pinyin": "dānyuán",
+    "translations": "Unit"
   },
   {
     "id": 190,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "耽误",
+    "pinyin": "dānwù",
+    "translations": "Menghambat"
   },
   {
     "id": 191,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "胆小鬼",
+    "pinyin": "dǎnxiǎoguǐ",
+    "translations": "Penakut"
   },
   {
     "id": 192,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "淡",
+    "pinyin": "dàn",
+    "translations": "Tawar"
   },
   {
     "id": 193,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "当地",
+    "pinyin": "dāngdì",
+    "translations": "Lokal/Setempat"
   },
   {
     "id": 194,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "当心",
+    "pinyin": "dāngxīn",
+    "translations": "Hati-hati"
   },
   {
     "id": 195,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "挡",
+    "pinyin": "dǎng",
+    "translations": "Blokir/Menghalangi"
   },
   {
     "id": 196,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "导演",
+    "pinyin": "dǎoyǎn",
+    "translations": "Sutradara"
   },
   {
     "id": 197,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "导致",
+    "pinyin": "dǎozhì",
+    "translations": "Mengakibatkan"
   },
   {
     "id": 198,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "岛屿",
+    "pinyin": "dǎoyǔ",
+    "translations": "Kepulauan"
   },
   {
     "id": 199,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "倒霉",
+    "pinyin": "dǎoméi",
+    "translations": "Sial"
   },
   {
     "id": 200,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "到达",
+    "pinyin": "dàodá",
+    "translations": "Tiba ditempat tujuan"
   },
   {
     "id": 201,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "道德",
+    "pinyin": "dàodé",
+    "translations": "Moral"
   },
   {
     "id": 202,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "道理",
+    "pinyin": "dàolǐ",
+    "translations": "Alasan"
   },
   {
     "id": 203,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "的确",
+    "pinyin": "díquè",
+    "translations": "Memang benar"
   },
   {
     "id": 204,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "登记",
+    "pinyin": "dēngjì",
+    "translations": "Daftar"
   },
   {
     "id": 205,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "等待",
+    "pinyin": "děngdài",
+    "translations": "Menunggu"
   },
   {
     "id": 206,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "等于",
+    "pinyin": "děngyú",
+    "translations": "Sama dengan"
   },
   {
     "id": 207,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "滴",
+    "pinyin": "dī",
+    "translations": "Tetesan"
   },
   {
     "id": 208,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "敌人",
+    "pinyin": "dírén",
+    "translations": "Musuh"
   },
   {
     "id": 209,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "地道",
+    "pinyin": "dìdào",
+    "translations": "Murni/Asli"
   },
   {
     "id": 210,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "地理",
+    "pinyin": "dìlǐ",
+    "translations": "Geografi"
   },
   {
     "id": 211,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "地区",
+    "pinyin": "dìqū",
+    "translations": "Daerah"
   },
   {
     "id": 212,
-    "hanzi": "",
-    "pinyin": "",
-    "translations": ""
+    "hanzi": "地毯",
+    "pinyin": "dìtǎn",
+    "translations": "KesetKarpet"
   },
   {
     "id": 213,
     "hanzi": "",
     "pinyin": "",
     "translations": ""
+  },
+  {
+    "id": 214,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 215,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 216,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 217,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 218,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 219,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 220,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 221,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 222,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 223,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 224,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 225,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 226,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 227,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 228,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 229,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 230,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 231,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 232,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 233,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 234,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 235,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 236,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 237,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 238,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 239,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 240,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 241,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 242,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 243,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 244,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
+  },
+  {
+    "id": 245,
+    "hanzi": "",
+    "pinyin": "",
+    "translations": ""
   }
-
 
 ]
